@@ -8,7 +8,7 @@ Campus Market helps students, families, and community members compare home-sale 
 
 ## Live site
 
-The GitHub Pages deployment is pending an environment branch permission update. The site source is in the `site-dashboard` branch.
+[Open Campus Market](https://belladove1128-arch.github.io/college-town-housing/)
 
 ## Data notes
 
